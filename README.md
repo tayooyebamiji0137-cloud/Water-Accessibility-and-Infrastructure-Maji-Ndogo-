@@ -5,7 +5,7 @@ Investigate access to water sources, queue times, contamination risks and where 
 
 ### Data Source
 md_water_services data. The primary dataset use for this analysis is the md_water_services.sql file, containing detailed information about water service in maji-ndogo.
-> [Download here](md_water_services.sql)
+> [Download here](https://github.com/tayooyebamiji0137-cloud/Water-Accessibility-and-Infrastructure-Maji-Ndogo-/blob/main/md_water_services.sql)
 
 
 ### Tools
