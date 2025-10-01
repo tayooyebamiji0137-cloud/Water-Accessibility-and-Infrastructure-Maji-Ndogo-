@@ -1,15 +1,15 @@
 # Water-Accessibility-and-Infrastructure-Maji-Ndogo-
 ## Table of Content
 
-* [Project Overveiw](project-overveiw)
-* [Data Source](data-source)
-* [Tools](tools)
-* [Data Overview](data-overview)
-* [Data Cleaning](data-cleaning)
-* [Exploratory Data Analysis](exploratory-data-analysis)
-* [Data Analysis](data-analysis)
-* [Insight](insight)
-* [Recommendation](recommendation)
+* [Project Overveiw](#project-overveiw)
+* [Data Source](#data-source)
+* [Tools](#tools)
+* [Data Overview](#data-overview)
+* [Data Cleaning](#data-cleaning)
+* [Exploratory Data Analysis](#exploratory-data-analysis)
+* [Data Analysis](#data-analysis)
+* [Insight](#insight)
+* [Recommendation](#recommendation)
 ### Project Overveiw
 
 Investigate access to water sources, queue times, contamination risks and where infrastructure improvements would benefit the most people
